@@ -1,0 +1,4 @@
+pynput==1.7.6
+pywin32==306; sys_platform == 'win32'
+python-xlib==0.33; sys_platform == 'linux'
+colorama==0.4.6 
